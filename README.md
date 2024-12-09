@@ -2,7 +2,7 @@
 - 👀 I’m interested in data analytics
 - 🌱 I’m currently learning SQL
 - 💞️ I’m looking to collaborate on SQL projects
-- 📫 How to reach me LinkedIn
+- 📫 How to reach me on LinkedIn
 - 😄 Pronouns: she) they
 - ⚡ Fun fact: Nothing comes to mind
 
